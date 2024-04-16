@@ -145,3 +145,18 @@ venv/*
 secrets/*
 */secrets/
 *credentials.json
+
+# Exclude Scala distributions and extracted directories
+*.tgz
+scala-*/
+
+# Other existing exclusions...
+*.bundle.*
+lib/
+node_modules/
+*.egg-info/
+.ipynb_checkpoints
+*.tsbuildinfo
+
+# Remaining exclusions...
+

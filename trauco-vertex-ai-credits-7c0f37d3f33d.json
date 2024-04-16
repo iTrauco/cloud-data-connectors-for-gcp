@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "trauco-vertex-ai-credits",
+  "private_key_id": "7c0f37d3f33d194868b7cbcf9b0e624b00b69606",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDUBl/s2uhRRYA/\nAsCr7tgwOxwF8vsbWtAegxS/N7qkLITK/P1jLPWbe92r6MWjRvDts4oEJpAtoRQh\n2bADGA+pH4XA74USzhZkmwBejxaMlonQMayBT6/dAEPFRPxour079UAFwQdQ/dhN\njpNel0A6arotWcvm5fT6j70UNTcyGSdZFnuVTGFOoYJfb9cUX3hYrtdSHH4TzEiQ\n3WN/IXGyioM9NCya5IiBtsUvdRrLenUOthgK8cFR+5yYhJI/eSge8ADBQLiWDmGk\nhnyKxpfZMNnV0X+DD+c1phCSiS9ADwG5HbkmIQ++PjACzHHYeKn69qjK6CzuGJOt\nCQQu3iS/AgMBAAECggEAEqkc+DOsDrsXNnR/kKJM1LHfHYbtItMzTfwrb0jwXFKu\nvU7W3kuusiiMsfyiqGQuAD20//iE5/8tTm1iWGNdvXzQwNJT2/vXbLNXrPra+TSm\nnHRCwn7I86J6VHpl3LHSxdwn7lm20yIET48k2UZmmL2b9THaCFBk50iPU5/7Y6U5\n+FlC7MtYrWbn7SRInOxwdcfEB6zYhZqrVkFn9CvEKcggldvqxNFYl27gkygiVitS\nGksT8PWYVOSfXL6iQF4+HOkMHXqFlFvH4DFowz2A+0tMn3Vci7ml5KBA2XPuSxOn\nFKvF+ej/TPP0O6wgqOf6DFpgYq6Hfd01ENhVyjBewQKBgQD7aO5M81sVJrQbIPqe\nboilURNUy4sLmgrDCNjiPim/K3fFN8Fxj8RxAztLP1XThH1NXQXKDS6r8afvslRO\nmA1ODK/5nkIW/ZDwJLMs1/KNIRiY8poU86Ipid28RXXk+AitYva6VD+OGOTK3/Ld\nmJ/tBqDbvhQ3eG681W8wAyT8/QKBgQDX5VyWCsNAZ9tp56LE2AimMX6rYfU2AZps\nR+VWwPrgy2jq2Th4+B/aCKAMIieOXXY4IgN3tZ2+oXA/H8wuZQCwvn4eR/tMyRK8\nmJ9uBw4VsM2xrM3I9WloiFvK0PJH1wdMgsN13lqHavl5vw+2HKrNziWoQRH/j7rA\nj0iUgKozawKBgQDBROg01bvGZct9M3wWgWigldQjkpngoFn3lvyL6DfVk4fuX69h\nKqFcM5zIevbytN5Ss9k4e6vOWOa+GLxA8xj/UDeT0HqEDAf45G2tYpE+txuesJmM\n08Js5mREUK2SCK87A2Ii2ZNGHJL99u1QNv1yjG7qnpQSFI4ksntYUIKFzQKBgQCm\nRJXRV+iXKWTpYuMQBfBjTaroAkD+nq12xsfw0B5mEUFz3GaJg03EdPANaCBem8v3\n3vocr1oU/e+cLbjp4g9uDsbCO11l/VTYuhHOgtBuFAPV2eeB5L6RKrLGt7Rfb1LH\nsc0mcV/2+oO3J1XKQrmoViLaOYLK9r40niSfeZeakQKBgQCC6k0iNH3n8Etd7UyB\nrlql4GCpRofLRD7PGHYJj1eerer4I7DJEZJQpVa0XpHLPpKRU4TUs2YgBsl74+Pg\ngzm1Ib9Dft6Jb4CtWi/wXfCUuXKtemerriyHq0Tzss2mi4SaRlqoWw6oEHbcItAy\nU5Px8hOBB6EHew+fvETO6qKqqA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "trauco-vai-promo-credit-sa@trauco-vertex-ai-credits.iam.gserviceaccount.com",
+  "client_id": "114889308806465812004",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trauco-vai-promo-credit-sa%40trauco-vertex-ai-credits.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

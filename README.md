@@ -1,8 +1,4 @@
-# README.md
-
-Data Engineering GCP data connectors for a number of cloud services
-
-# Setting up a Conda Environment with TensorFlow
+# Setting up a Conda Environment with TensormFlow
 
 This guide will walk you through the process of setting up a new Conda environment named `tensorflow_env` with TensorFlow.
 
@@ -33,9 +29,9 @@ Before you begin, ensure that you have Conda installed. If you haven't installed
    ```
 
 4. **(Optional) Install additional libraries**:
-   You can install additional libraries using `conda` or `pip` within the activated environment. For example, to install Jupyter Notebook:
+   You can install additional libraries using `conda` or `pip` within the activated environment. For example, to install Jupyter Notebook, pandas, numpy, and PySpark into the existing environment:
    ```bash
-   conda install jupyter
+   conda install jupyter pandas numpy pyspark
    ```
 
 5. **Deactivate the Conda environment**:
@@ -50,9 +46,9 @@ You can also automate these steps by using the provided Bash script:
 bash setup_tensorflow_env.sh
 ```
 
-This script will execute the commands listed above and set up the Conda environment with TensorFlow.
+This script will execute the commands listed above and set up the Conda environment with TensorFlow and additional libraries.
 
 ## Conclusion
 
-You've now set up a Conda environment with TensorFlow! You can start using TensorFlow for your projects within this environment.
-
+You've now set up a Conda environment with TensorFlow and additional libraries! You can start using TensorFlow and other libraries for your projects within this environment.
+
